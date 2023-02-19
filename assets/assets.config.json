@@ -1,0 +1,47 @@
+{
+  "Zomato_Logo.jpg": {
+    "mime": "image/jpeg"
+  },
+  "rest-logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rest-photo.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "doordarsh.svg": {
+    "mime": "image/svg+xml"
+  },
+  "grubhub.svg": {
+    "mime": "image/svg+xml"
+  },
+  "postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "breakfast.svg": {
+    "mime": "image/svg+xml"
+  },
+  "desserts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "drinks.svg": {
+    "mime": "image/svg+xml"
+  },
+  "main dishes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rest-photo2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "loc.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mail.svg": {
+    "mime": "image/svg+xml"
+  },
+  "phone.svg": {
+    "mime": "image/svg+xml"
+  }
+}
